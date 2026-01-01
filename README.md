@@ -119,7 +119,7 @@ Contributions are always welcome!
 
 For any queries or contributions, feel free to reach out:
 
-Email: chinmaymondkar2003@gmail.com
+Email: sahilpakhare17@gmail.com
 
 LinkedIn: Chinmay Mondkar
 ## License
